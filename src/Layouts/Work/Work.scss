@@ -1,0 +1,22 @@
+.Work {
+    width: 100%;
+    height: 170vh;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+
+    .card {
+        overflow: hidden;
+        .card-img-top {
+            height: 328px;
+            object-fit: cover;
+        }
+        .card-body {
+            background-color: black;
+        }
+        .card-text {
+            text-align: left;
+            align-items: flex-start;
+        }
+    }
+}

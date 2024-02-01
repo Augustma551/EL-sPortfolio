@@ -1,0 +1,43 @@
+.About{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0; 
+    position: relative;
+    overflow: hidden;
+    .main{
+        display: flex;
+        position: relative;
+        top: 4rem;
+        left: 12rem;
+        img{
+                height: 417px;
+                width: 572px;
+                object-fit: contain;
+               
+                // transform: rotate(90deg);
+                
+            }
+            .container{
+                // position: relative;
+                // bottom: 40%;
+                // left: 35%;
+                // right: -35%;
+                .text{
+                    position: absolute;
+                    left: 22rem;
+                    font-size: 10rem;
+                    font-weight: 900;
+                }
+                .desc{        
+                    position: absolute;
+                    top: 13rem;
+                    width: 35%;
+                    text-align: left;
+                }
+            }
+    }
+    .Footer{
+        margin-top: 9rem;
+    }
+}
