@@ -3,7 +3,7 @@ import './Footer.scss';
 const Footer =() =>{
     return(
         <div className='Footer bg-black'>
-            <div className='d-flex flex-column gap-3 align-items-center justify-content-center'>
+            <div className='d-flex flex-column gap-3 mx-auto align-items-center justify-content-center'>
            
                 <a className="btn btn-lg btn-light mt-5 rounded-5 text-center" href="https://cloning-disguised-gg-evbd.vercel.app/" role="button" style={{width:'10%'}}>See Github</a>
                 

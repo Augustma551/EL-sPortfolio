@@ -72,7 +72,7 @@ const Work = () => {
             </div>
           </div>
         </div>
-        <div className="col text-center mx-auto align-items-center">
+        <div className="col text-center mx-auto ">
           <div
             className="card text-light border-0 rounded-0 mt-5"
             style={{ width: 720 }}
@@ -88,7 +88,7 @@ const Work = () => {
                 React Js to cloned the WebPage.
               </p>
               <a
-                className="btn btn-light mt-3 mb-2 text-start"
+                className="btn btn-light mt-3 mb-2 me-3 text-start"
                 href="https://cloning-disguised-gg-evbd.vercel.app/"
                 role="button"
               >
