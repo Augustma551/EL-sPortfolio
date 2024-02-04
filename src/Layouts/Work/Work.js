@@ -33,10 +33,10 @@ const Work = () => {
 
               <a
                 className="btn btn-light text-start mb-2"
-                href="https://github.com/Augustma551/Cloning3DPage"
+                href="https://cloning3-d-page.vercel.app/"
                 role="button"
               >
-                See Github
+                See Site
               </a>
             </div>
           </div>

@@ -10,9 +10,6 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <Routes>
-        <Route path="/Work" element={<Work />} />
-      </Routes>
       <Hero />
       <Work />
       <Footer />
